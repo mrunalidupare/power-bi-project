@@ -1,2 +1,2 @@
 # power-bi-project
-It is dashboard  about the globall supermarket
+It is dashboard  about the global supermarket
